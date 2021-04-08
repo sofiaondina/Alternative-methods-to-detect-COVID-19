@@ -7,4 +7,6 @@ Two task on two datasaet are performed:
 2) COVID detection through chest X-ray images.
 
 
-Both dataset were founded in kaggle..
+Both dataset can be founded in kaggle at the following link:
+1) https://www.kaggle.com/himanshu007121/coughclassifier-trial
+2) https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
